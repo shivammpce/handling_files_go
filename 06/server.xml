@@ -1,0 +1,19 @@
+<!-- <?xml version="1.0" encoding="utf-8"?>
+<servers version="1">
+  <server>
+    <serverName>Shivam</serverName>
+    <serverIP>127.0.0.1</serverIP>
+  </server>
+  <server>
+    <serverName>Singh</serverName>
+    <serverIP>127.0.0.2</serverIP>
+  </server>
+</servers> -->
+
+<note>
+	<to>Tove</to>
+	<from>Jani</from>
+	<heading>Reminder</heading>
+	<body>Don't forget me this weekend!</body>
+</note>
+
